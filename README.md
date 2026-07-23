@@ -1,6 +1,7 @@
 # Brand Map
 
 Internal visual doc — personal brand + agency mapping.
+All fonts embedded as base64; renders fully offline.
 
 ## Run locally
 ```
